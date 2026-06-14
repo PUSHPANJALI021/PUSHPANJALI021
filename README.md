@@ -90,6 +90,32 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=PUSHPANJALI021&theme=react-dark&hide_border=false&area=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PUSHPANJALI021&theme=dark)
+
+</div>
+
+---
+
+## 🐍 Snake Animation
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PUSHPANJALI021/PUSHPANJALI021/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PUSHPANJALI021/PUSHPANJALI021/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PUSHPANJALI021/PUSHPANJALI021/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 <div align="center">
   <i>✨ Always building. Always learning. Always growing. ✨</i>
 </div>
