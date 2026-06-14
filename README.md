@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Pushpanjali 👋
+# Hi, I'm Pushpanjali
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%C2%B7+Node.js+%C2%B7+MongoDB+%E2%9A%A1;Learning+ML+%26+AI+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 
