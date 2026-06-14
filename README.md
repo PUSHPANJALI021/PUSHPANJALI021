@@ -1,6 +1,23 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pushpanjali&fontSize=60&fontColor=fff" />
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Hi%20I'm%20Pushpanjali%20&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20&descColor=ffffff" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7F77DD&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+MongoDB+%E2%9A%A1;Currently+Learning+ML+%26+AI+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Open+to+Internships+%F0%9F%9A%80;Let's+Build+Something+Amazing+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+🏆 **2nd Place – Techno Conference '26** &nbsp;·&nbsp; 🏅 **Top 25 – Os-some Hacks 2.0** &nbsp;·&nbsp; 🎓 **NPTEL Java Elite + Silver**
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=PUSHPANJALI021&color=7F77DD&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+... rest of your README continues below
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7F77DD&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+MongoDB+%E2%9A%A1;Currently+Learning+ML+%26+AI+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Open+to+Internships+%F0%9F%9A%80;Let's+Build+Something+Amazing+%F0%9F%9A%80" alt="Typing SVG" />
 
