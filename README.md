@@ -1,5 +1,5 @@
 #  About Me:
-Hi !! , I'm Pushpanjali  <br><br>Frontend Developer | React | MERN stack  <br>Learning backend development  <br><br>🏆 2nd place – Techno Conference '26  <br> Top 25 – Os-some Hacks 2.0  <br><br>NPTEL Java (Elite + Silver)  <br>Exploring AI/ML  <br><br>Open to internships
+Hi !! , I'm Pushpanjali  <br><br>Full-Stack Developer | React | MERN stack  <br>Learning ML  <br><br>🏆 2nd place – Techno Conference '26  <br> Top 25 – Os-some Hacks 2.0  <br><br>NPTEL Java (Elite + Silver)  <br>Exploring AI/ML  <br><br>Open to internships
 
 
 ## 🌐 Socials:
