@@ -1,78 +1,106 @@
 <div align="center">
 
-# Hi, I'm Pushpanjali
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Hi%20I'm%20Pushpanjali%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20&descColor=ffffff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%C2%B7+Node.js+%C2%B7+MongoDB+%E2%9A%A1;Learning+ML+%26+AI+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-🏆 **2nd Place – Techno Conference '26** &nbsp;·&nbsp; 🏅 **Top 25 – Os-some Hacks 2.0** &nbsp;·&nbsp; 🎓 **NPTEL Java Elite + Silver**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7F77DD&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+MongoDB+%E2%9A%A1;Currently+Learning+ML+%26+AI+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Open+to+Internships+%F0%9F%9A%80;Let's+Build+Something+Amazing+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PUSHPANJALI021&color=7F77DD&style=flat-square&label=Profile+Views)
+<a href="https://www.instagram.com/_.pushpanjali_01">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/pushpanjali-sinha-">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sinhapushpanjali21@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/PUSHPANJALI021">
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=PUSHPANJALI021&color=7F77DD&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🌐 Socials
+## 🏆 Achievements
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_.pushpanjali_01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushpanjali-sinha-)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinhapushpanjali21@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PUSHPANJALI021)
+| 🥈 | 2nd Place | Techno Conference '26 |
+|---|---|---|
+| 🏅 | Top 25 | Os-some Hacks 2.0 |
+| 🎓 | Elite + Silver | NPTEL Java Certification |
 
 </div>
+
+---
+
+## 👩‍💻 About Me
+
+```yaml
+name       : Pushpanjali
+role       : Full-Stack Developer
+stack      : React · Node.js · MongoDB
+learning   : Machine Learning & AI
+available  : Open to internships in Full-Stack & AI/ML
+passion    : Building things that matter ✨
+```
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**
+<div align="center">
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+**⚡ Languages**
 
-**Frontend & Mobile**
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37)
+**🎨 Frontend & Mobile**
 
-**Backend & Databases**
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+**🔧 Backend & Databases**
 
-**Cloud & DevOps**
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
+**☁️ Cloud & DevOps**
 
-**AI / ML**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+**🤖 AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
 
 ---
 
@@ -80,11 +108,12 @@
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=PUSHPANJALI021&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.shion.dev/api?username=PUSHPANJALI021&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PUSHPANJALI021&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 
-![](https://streak-stats.demolab.com/?user=PUSHPANJALI021&theme=dark&hide_border=false)
+<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PUSHPANJALI021&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://streak-stats.demolab.com/?user=PUSHPANJALI021&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -94,9 +123,9 @@
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=PUSHPANJALI021&theme=react-dark&hide_border=false&area=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=PUSHPANJALI021&theme=tokyo-night&hide_border=true&area=true&area_color=7F77DD)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PUSHPANJALI021&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PUSHPANJALI021&theme=tokyonight)
 
 </div>
 
@@ -116,6 +145,4 @@
 
 ---
 
-<div align="center">
-  <i>✨ Always building. Always learning. Always growing. ✨</i>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer" />
